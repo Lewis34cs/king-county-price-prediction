@@ -1,3 +1,6 @@
 king-county-env/
 pipeline_test.ipynb
 test.ipynb
+__pycache__/
+*.pyc
+*.pyo
